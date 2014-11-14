@@ -1,6 +1,6 @@
 ECLille-poo2
 ===========
 
-jsfiddle
+jsfiddle test de modifications
 
 http://jsfiddle.net/gwenaelhagenmuller/pk63z0x1/
