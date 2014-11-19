@@ -9,6 +9,8 @@ https://prezi.com/7i17xkfiv2fb/bases-de-loriente-objet-et-du-dev-3d/
 jsfiddle presentation example
 -----------------------------
 
+http://jsfiddle.net/BabarElephantKing/7vn86hts/
+
 http://jsfiddle.net/gwenaelhagenmuller/pk63z0x1/
 
 http://jsfiddle.net/Victor_Chanat/pdfr8x2x/
