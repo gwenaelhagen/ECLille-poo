@@ -67,6 +67,10 @@ GPU
 
 http://www.twixco.com/GPU/
 
+CR
+--
+
+https://docs.google.com/document/d/10qcCgF_m_kZNVs3iuVGPWrdoFHn72U5uzmsjWNkZRfc/edit?usp=sharing
 
 ThreeJS / BabylonJS
 -------------------
