@@ -1,0 +1,92 @@
+﻿(function () {
+    "use strict";
+
+    WinJS.UI.Pages.define("/pages/home/home.html", {
+        // This function is called whenever a user navigates to this page. It
+        // populates the page elements with the app's data.
+        ready: function (element, options) {
+            var peopleFirstNames = [];
+            var peopleLastNames = [];
+            var peopleOO = [];
+            peopleFirstNames.push("Gwenaël"); peopleLastNames.push("HAGENMULLER"); peopleOO.push(false);
+            peopleFirstNames.push("Victor"); peopleLastNames.push("CHANAT"); peopleOO.push(false);
+            peopleFirstNames.push("Alexis"); peopleLastNames.push("CHARVERIAT"); peopleOO.push(false);
+            peopleFirstNames.push("Juri"); peopleLastNames.push("FEDJAEV"); peopleOO.push(false);
+            peopleFirstNames.push("Samuel"); peopleLastNames.push("LE GOFF"); peopleOO.push(false);
+            peopleFirstNames.push("Maxence"); peopleLastNames.push("LEDUC"); peopleOO.push(false);
+            peopleFirstNames.push("Victor"); peopleLastNames.push("MANENTI"); peopleOO.push(false);
+            peopleFirstNames.push("Nicolas"); peopleLastNames.push("MERCIER"); peopleOO.push(false);
+            peopleFirstNames.push("Vincent"); peopleLastNames.push("RAES"); peopleOO.push(false);
+            peopleFirstNames.push("Ming Ye"); peopleLastNames.push("WANG"); peopleOO.push(false);
+            peopleFirstNames.push("Buyun"); peopleLastNames.push("ZHANG"); peopleOO.push(false);
+            peopleFirstNames.push("Firas"); peopleLastNames.push("MAHMOUD"); peopleOO.push(false);
+
+            var doneFirstNames = [];
+            var doneLastNames = [];
+            var doneOO = [];
+
+            // to debug
+            window.doneFirstNames = doneFirstNames;
+            window.doneLastNames = doneLastNames;
+            window.doneOO = doneOO;
+
+            var myButton = document.getElementById("next");
+            var myTable = document.getElementById("people");
+
+            myButton.addEventListener("click", function () {
+                var where = pickOne(peopleFirstNames);
+                var firstName = peopleFirstNames[where];
+                var lastName = peopleLastNames[where];
+
+                alert(firstName + " " + lastName);
+
+                addPersonToTable(firstName, lastName, doneOO.length);
+
+                peopleFirstNames.splice(where, 1);
+                peopleLastNames.splice(where, 1);
+                peopleOO.splice(where, 1);
+
+                doneFirstNames.push(firstName);
+                doneLastNames.push(lastName);
+                doneOO.push(false);
+
+                if (peopleFirstNames.length == 0) {
+                    myButton.style.display = "none";
+                }
+            });
+
+            var msgBox = new Windows.UI.Popups.MessageDialog("");
+            function alert(message) {
+                msgBox.content = message;
+                msgBox.showAsync();
+            }
+
+            function pickOne(anArray) {
+                var i = Math.floor(Math.random() * (anArray.length - 1));
+                return i;
+            }
+
+            function addPersonToTable(firstName, lastName, i) {
+                var rowCount = myTable.rows.length;
+                var row = myTable.insertRow(rowCount);
+
+                var cell1 = row.insertCell(0);
+                cell1.innerHTML = firstName;
+
+                var cell2 = row.insertCell(1);
+                cell2.innerHTML = lastName;
+
+                var cell3 = row.insertCell(2);
+                var element2 = document.createElement("input");
+                element2.type = "checkbox";
+                element2.name = "chckbox[]";
+                cell3.appendChild(element2);
+
+                element2.addEventListener("click", function (e, v) {
+                    doneOO[i] = element2.checked;
+                });
+            }
+
+        }
+    });
+})();

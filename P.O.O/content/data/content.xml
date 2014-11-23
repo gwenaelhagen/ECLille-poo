@@ -1,0 +1,957 @@
+<zuiprezi>
+  <version>8</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-21882.402616811338" y="-12299.483126086132" width="43764.805233622676" height="24598.966252172264"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>fr</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="4_24309637" type="button" x="-7.244421380934705e-13" y="0" r="0" s="41.06672162299209" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1066.6666666666663</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="28_24309637" type="text" x="-1.870516765149544" y="-8676.042036609415" r="0" s="82.25898989220512" class="head head-background">
+      <height>27.59765625</height>
+      <width>490.65722573217215</width>
+      <p align="center">
+        <text><![CDATA[Bases de l'orienté objet et du dev 3D]]></text>
+      </p>
+    </object>
+    <object id="11_24309637" type="shape" x="-5488.050446107123" y="2645.836226128015" r="0" s="29.66964673923048" class="line3">
+      <geom type="line">
+        <sp>-56.83090379179474 0</sp>
+        <ep>56.83090379179474 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="13_24309637" type="shape" x="532.940031261351" y="288.37479281386555" r="-44.999999999999986" s="29.669646739230448" class="line4">
+      <geom type="line">
+        <sp>31.279366725550545 0</sp>
+        <ep>-31.279366725550545 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="14_24309637" type="shape" x="4764.2717941845085" y="-387.93881132017236" r="179.99999999999994" s="29.66964673923047" class="line4">
+      <geom type="line">
+        <sp>119.25115633003811 0</sp>
+        <ep>-119.25115633003811 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="15_24309637" type="shape" x="2425.5542685387336" y="2651.2925433447012" r="-0.18825206392876484" s="29.669646739230462" class="line3">
+      <geom type="line">
+        <sp>55.9720100187575 0</sp>
+        <ep>-55.9720100187575 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="16_24309637" type="shape" x="9222.074262689695" y="2647.8756638362383" r="-0.0008171154163535971" s="29.66964673923053" class="line3">
+      <geom type="line">
+        <sp>61.86382646162966 0</sp>
+        <ep>-61.86382646162966 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="17_24309637" type="shape" x="-11455.03008022246" y="2674.8520474872635" r="-2.529571639596218e-13" s="29.66964673923048" class="line3">
+      <geom type="line">
+        <sp>37.03689225265077 0</sp>
+        <ep>-37.03689225265077 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="18_24309637" type="shape" x="-4566.219728843439" y="5547.793530184229" r="-45.00000000000005" s="29.669646739230462" class="line2">
+      <geom type="line">
+        <sp>64.08164519246328 0</sp>
+        <ep>-64.0816451924633 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="19_24309637" type="shape" x="-8155.269067866078" y="6907.676805028385" r="-7.48461017976647e-14" s="29.66964673923048" class="line2">
+      <geom type="line">
+        <sp>75.391045919443 0</sp>
+        <ep>-75.391045919443 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="0_24309637" type="shape" x="-14745.897202228227" y="6856.439738762583" r="-2.669905825566916e-13" s="29.66964673923048" class="line2">
+      <geom type="line">
+        <sp>37.03689225265077 0</sp>
+        <ep>-37.03689225265077 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="1_24309637" type="shape" x="12607.804276565277" y="-382.97348884430414" r="-9.150192013716592e-14" s="29.66964673923048" class="line4">
+      <geom type="line">
+        <sp>36.92962212959452 0</sp>
+        <ep>-36.92962212959452 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="7_24309637" type="button" x="-8783.853900778646" y="2637.4874224110754" r="0" s="6.430574553650584" class="circle">
+      <type>circle</type>
+      <size>
+        <w>489.30000000000007</w>
+        <h>489.30000000000007</h>
+      </size>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="9_24309637" type="button" x="9907.525132358402" y="-430.64359829577626" r="0" s="6.5997824333219794" class="circle">
+      <type>circle</type>
+      <size>
+        <w>489.3</w>
+        <h>489.3</h>
+      </size>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="10_24309637" type="button" x="5736.441432422163" y="2645.0632168603765" r="0" s="6.746841452014441" class="circle">
+      <type>circle</type>
+      <size>
+        <w>489.3</w>
+        <h>489.3</h>
+      </size>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="12_24309637" type="button" x="-12018.596531682146" y="6897.347661672593" r="0" s="6.602671335226271" class="circle">
+      <type>circle</type>
+      <size>
+        <w>489.3</w>
+        <h>489.3</h>
+      </size>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="23_24309637" type="text" x="-12032.753238016709" y="6082.482815799162" r="0" s="8.902855845831771" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Sujets abordés]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="12_24309637"/>
+      </layout>
+    </object>
+    <object id="24_24309637" type="text" x="-12030.534013098717" y="7121.776414818096" r="0" s="5.136902887637139" class="body">
+      <height>165.5859375</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[- notions de programmation orientée objets (POO)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- les bases et concepts du dev 3D]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- les outils, bonnes habitudes de dev]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="12_24309637"/>
+      </layout>
+    </object>
+    <object id="25_24309637" type="text" x="-8797.641616522258" y="1963.5189153236824" r="0" s="8.670805398352185" class="strong">
+      <height>55.1953125</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Outils, bonnes habitudes de dev]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="7_24309637"/>
+      </layout>
+    </object>
+    <object id="26_24309637" type="text" x="-8473.816585214938" y="2940.894075959154" r="0" s="4.134719793942359" class="body">
+      <height>303.57421875</height>
+      <width>694.5692759724097</width>
+      <p>
+        <text><![CDATA[- Chrome (F12)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- GitHub]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- TortoiseGit]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- clé SSH]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- fork de ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[        https://github.com/gwenael-hagenmuller/ECLille-poo]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- clone sur pc]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- ajout d'une remote]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- JSFiddle]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- fork du jsfiddle]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- Notepad++]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="7_24309637"/>
+      </layout>
+    </object>
+    <object id="27_24309637" type="text" x="5721.975612714844" y="1937.947760374746" r="0" s="9.097250765989928" class="strong">
+      <height>55.1953125</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Bases du versioning avec git]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="10_24309637"/>
+      </layout>
+    </object>
+    <object id="29_24309637" type="text" x="5724.243294673828" y="2946.8295339221345" r="0" s="5.249067775398401" class="body">
+      <height>193.18359375</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[- working changes]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- commit]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- fetch]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- merge]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- push]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- pull-request]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- pull]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="10_24309637"/>
+      </layout>
+    </object>
+    <object id="30_24309637" type="text" x="9893.374620082848" y="-1122.3462566783755" r="0" s="8.898960531965487" class="strong">
+      <height>55.1953125</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Retour à l'exemple du début]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="9_24309637"/>
+      </layout>
+    </object>
+    <object id="31_24309637" type="text" x="9895.592874011554" y="-489.74601383430087" r="0" s="5.134655311197118" class="body">
+      <height>55.1953125</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[- les données]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- intéraction avec les données]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="9_24309637"/>
+      </layout>
+    </object>
+    <object id="11" type="shape" x="-7314.211540101741" y="-2496.19147303471" r="0" s="29.66964673923048" class="line5">
+      <geom type="line">
+        <sp>-94.34125572740244 0</sp>
+        <ep>94.34125572740246 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="12" type="shape" x="-14439.256288552013" y="-2464.5803740624797" r="-2.9505741975083097e-13" s="29.66964673923048" class="line5">
+      <geom type="line">
+        <sp>37.03689225265077 0</sp>
+        <ep>-37.03689225265077 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="13" type="shape" x="-3566.52008510069" y="-854.0170905529413" r="60.00000000000001" s="29.669646739230476" class="line5">
+      <geom type="line">
+        <sp>-63.90310433459994 0</sp>
+        <ep>63.90310433459994 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="14" type="button" x="-11725.4306107616" y="-2401.7900624792524" r="0" s="4.04258951874053" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="15" type="text" x="-11640.522615386364" y="-3135.375845249621" r="0" s="12.182752010830624" class="strong">
+      <height>27.59765625</height>
+      <width>139.30563936317557</width>
+      <p>
+        <text><![CDATA[POO vs PP]]></text>
+      </p>
+    </object>
+    <object id="16" type="shape" x="4207.784112402972" y="8000.4095776296535" r="-179.92319247964923" s="29.669646739230473" class="line5">
+      <geom type="line">
+        <sp>-94.34125572740244 0</sp>
+        <ep>94.34125572740246 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="17" type="shape" x="11332.864834853124" y="7978.349941045388" r="-179.92319247964954" s="29.669646739230473" class="line5">
+      <geom type="line">
+        <sp>37.03689225265077 0</sp>
+        <ep>-37.03689225265077 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="18" type="shape" x="449.92673051017897" y="6331.719555742488" r="-119.92319247964925" s="29.669646739230465" class="line5">
+      <geom type="line">
+        <sp>-64.73894187483263 0</sp>
+        <ep>64.73894187483262 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="21" type="button" x="-1499.602798006247" y="2697.9705401880606" r="0" s="9.1527416948099" class="circle">
+      <type>circle</type>
+      <size>
+        <w>489.3</w>
+        <h>489.3</h>
+      </size>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="22" type="text" x="-1519.2270788088226" y="1568.3902427908954" r="0" s="12.341298811632292" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Notre équipe]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="21"/>
+      </layout>
+    </object>
+    <object id="23" type="text" x="-1467.4313873128463" y="2681.841882478261" r="0" s="7.120867124041791" class="body">
+      <height>55.1953125</height>
+      <width>429.21522021397186</width>
+      <p>
+        <text><![CDATA[Team lead : Gwenaël HAGENMULLER]]></text>
+      </p>
+      <p align="center">
+        <text color="1657497"><![CDATA[gwenaelhagen@gmail.com]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="21"/>
+      </layout>
+    </object>
+    <object id="24" type="text" x="-1257.655335522793" y="3507.5436455435333" r="0" s="7.120867124041791" class="body">
+      <height>27.59765625</height>
+      <width>592.3680466166735</width>
+      <p>
+        <text><![CDATA[http://jsfiddle.net/gwenaelhagenmuller/pk63z0x1/]]></text>
+      </p>
+    </object>
+    <object id="25" type="button" x="8615.780642097978" y="8013.6177955261865" r="0" s="4.04258951874053" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="26" type="text" x="8632.849630141069" y="7334.350826235232" r="0" s="12.182752010830624" class="strong">
+      <height>27.59765625</height>
+      <width>194.54849194777233</width>
+      <p>
+        <text><![CDATA[Bases du dev 3D]]></text>
+      </p>
+    </object>
+    <object id="27" type="button" x="17145.95810144945" y="10025.537637347923" r="0" s="4.736450782859597" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="28" type="text" x="17138.57467507226" y="9002.158817536945" r="0" s="16.949054183916942" class="strong">
+      <height>27.59765625</height>
+      <width>-55.9921875</width>
+      <p>
+        <text><![CDATA[QCM]]></text>
+      </p>
+    </object>
+    <object id="29" type="text" x="17139.028860609924" y="10008.817180873026" r="0" s="8.697544750809099" class="body">
+      <height>27.59765625</height>
+      <width>293.8462099122926</width>
+      <p align="center">
+        <text><![CDATA[http://goo.gl/ufch3Y]]></text>
+      </p>
+    </object>
+    <object id="30" type="button" x="1904.8341809623178" y="-4109.6062312425565" r="0" s="4.736450782859597" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="42" type="video" x="-733.2367924528297" y="-3791.572641509431" r="0" s="4.535109428287741" onFocus="start" onLeave="pause">
+      <source>2667678055<url>2667678055.mp4</url></source>
+    <resource><id>2667678055</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/b/e/3/9d9566db1d89e35bb7a545996f2f3c9b21f9f.mp4</url></resource></object>
+    <object id="34" type="text" x="1904.9158633886077" y="-5195.655771125705" r="0" s="8.429273145025812" class="body">
+      <height>27.59765625</height>
+      <width>241.40094444434436</width>
+      <p align="center">
+        <text><![CDATA[ECLyon promo 2007]]></text>
+      </p>
+    </object>
+    <object id="35" type="text" x="1904.863306467631" y="-4645.148870505226" r="0" s="8.429273145025808" class="body">
+      <height>55.1953125</height>
+      <width>241.40094444434436</width>
+      <p align="center">
+        <text><![CDATA[Orange Labs]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="36" type="text" x="1904.704102788467" y="-4184.087813779743" r="0" s="8.429273145025808" class="body">
+      <height>55.1953125</height>
+      <width>241.40094444434436</width>
+      <p align="center">
+        <text><![CDATA[Intel, Project Offset]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="37" type="text" x="1904.5084367066447" y="-3859.0841457516544" r="0" s="8.429273145025808" class="body">
+      <height>27.59765625</height>
+      <width>161.2934740486553</width>
+      <p align="center">
+        <text><![CDATA[nWave]]></text>
+      </p>
+    </object>
+    <object id="0_109143298" type="image" x="4755.0566037735825" y="-4109.459433962261" r="0" s="1.4000324446272638">
+      <source w="1364" h="634">2669179873<url>2669179873.JPG</url></source>
+      <sourceUrl>cuisine.JPG</sourceUrl>
+    <resource><id>2669179873</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/c/2/c8a352fbd55588eb959c7a593ae964a108508.JPG</url></resource></object>
+    <object id="2_109143298" type="image" x="386.0264150943394" y="-1727.332075471697" r="0" s="3.4546993478376185">
+      <source w="750" h="421">2669194924<url>2669194924.png</url></source>
+      <sourceUrl>Theia-Frontoffice.png</sourceUrl>
+    <resource><id>2669194924</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/c/2/0dbbc6682409f0a25c996ac19cb95bccfbe4b.png</url></resource></object>
+    <object id="38" type="text" x="1904.9158633886077" y="-3262.5594706688294" r="0" s="8.429273145025812" class="body">
+      <height>55.1953125</height>
+      <width>241.40094444434436</width>
+      <p align="center">
+        <text><![CDATA[VB2S360]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="39" type="text" x="1904.9396262305247" y="-2911.401690494819" r="0" s="8.429273145025812" class="body">
+      <height>27.59765625</height>
+      <width>241.40094444434436</width>
+      <p align="center">
+        <text><![CDATA[Stereograph]]></text>
+      </p>
+    </object>
+    <object id="40" type="youtube" x="-361.44905660377333" y="-5922.92264150943" r="0" s="5.379032760237656" onFocus="start" onLeave="pause">
+      <source>Si67L5RWpuQ</source>
+    </object>
+    <object id="41" type="youtube" x="3934.879245283016" y="-5615.705660377355" r="0" s="5.073475054862101" onFocus="start" onLeave="pause">
+      <source>JOPbyl7r8gk</source>
+    </object>
+    <object id="43" type="text" x="1904.9158633886077" y="-2589.00618352409" r="0" s="5.23391543363643" class="body">
+      <height>55.1953125</height>
+      <width>492.2198183174972</width>
+      <p align="center">
+        <text><![CDATA[http://vps11407.ovh.net/Sitl/Release/sunrise]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="47" type="text" x="1904.8970111262593" y="-5589.643024434114" r="0" s="5.757306977000074" class="strong">
+      <height>27.59765625</height>
+      <width>-292.03125</width>
+      <p>
+        <text><![CDATA[Gwenaël HAGENMULLER]]></text>
+      </p>
+    </object>
+    <object id="1_109143298" type="text" x="8199.529245283016" y="8182.818573113203" r="0" s="5.886792452830185" class="body">
+      <height>137.98828125</height>
+      <width>-255.38671875</width>
+      <p>
+        <text><![CDATA[- du monde 3D à l'écran]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- cube animé]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- ch'ti cube]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- objets]]></text>
+      </p>
+    </object>
+    <object id="3_109143298" type="text" x="-11724.05" y="-2170.8996089211437" r="0" s="5.166676113015868" class="body">
+      <height>220.78125</height>
+      <width>469.8389137194755</width>
+      <p>
+        <text><![CDATA[- réutilisation du code]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- adapté aux BDD (cf UML)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- moins de variables (pour le développeur)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- inconvénient mémoire]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- protection des données (encapsulation)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- héritage]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- polymorphisme]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="6.648871760004404" fadescale="0.11871961755697495">
+      <object id="background2019950362" type="image" x="-1381.667571154812" y="205.92777204051228" r="0" s="32.67110703258674">
+        <source w="1800" h="1361">2019950362<url>2019950362.png</url></source>
+        <sourceUrl>foldedmap_theme3.png</sourceUrl>
+      <resource><id>2019950362</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/b/4/4d9df5e1f53e19998f5269295ea4f22d84548.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="4_24309637"/>
+    </s>
+    <s>
+      <eagle o="21"/>
+    </s>
+    <s>
+      <eagle o="30"/>
+    </s>
+    <s>
+      <eagle o="12_24309637"/>
+    </s>
+    <s>
+      <eagle o="7_24309637"/>
+    </s>
+    <s>
+      <eagle o="10_24309637"/>
+    </s>
+    <s>
+      <eagle o="9_24309637"/>
+    </s>
+    <s>
+      <eagle o="14"/>
+    </s>
+    <s>
+      <eagle o="25"/>
+    </s>
+    <s>
+      <eagle o="14"/>
+    </s>
+    <s>
+      <eagle o="27"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	fontFamily: undefined;
+	font-class: undefined;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+.line1
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.line2
+{
+	color: #ffc801;
+	gradEndColor: #ffc801;
+	gradStartColor: #ffc801;
+}
+
+.line3
+{
+	color: #10ad76;
+	gradEndColor: #10ad76;
+	gradStartColor: #10ad76;
+}
+
+.line4
+{
+	color: #006cb7;
+	gradEndColor: #006cb7;
+	gradStartColor: #006cb7;
+}
+
+.line5
+{
+	color: #e30f01;
+	gradEndColor: #e30f01;
+	gradStartColor: #e30f01;
+}
+
+.poly1
+{
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.poly2
+{
+	gradEndColor: #ffc801;
+	gradStartColor: #ffc801;
+}
+
+.poly3
+{
+	gradEndColor: #10ad76;
+	gradStartColor: #10ad76;
+}
+
+.poly4
+{
+	gradEndColor: #006cb7;
+	gradStartColor: #006cb7;
+}
+
+.poly5
+{
+	gradEndColor: #e30f01;
+	gradStartColor: #e30f01;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderColor: #333;
+	borderThickness: 1.5;
+	gradEndAlpha: .7;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #000;
+}
+
+ZFrame.bracket
+{
+	gradEndAlpha: 1;
+	gradEndColor: #333;
+	gradStartAlpha: 1;
+	gradStartColor: #333;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	gradEndAlpha: 1;
+	gradEndColor: #ccc;
+	gradStartAlpha: 1;
+	gradStartColor: #ccc;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #333;
+	borderThickness: 1;
+	gradEndAlpha: .7;
+	gradEndColor: #fff;
+	gradStartAlpha: .7;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 0;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #efefef;
+	background-padding: 6;
+}
+
+ZLabel.head
+{
+	color: #333;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: .8;
+	background-color: #fff;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #e30f01;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: .9;
+	background-color: #ccc;
+	background-padding: 6;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.6;
+	color: #e30f01;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>-20499ec4</hash>
+<sync><oid>7i17xkfiv2fb</oid><title>bases-de-loriente-objet-et-du-dev-3d</title><hash>-20499ec4</hash></sync><config>IRtKL+RzylrMVVgtKct9SPa0tXHzyKMIjiK66Bw2ggDvf93XQpZ0dd/ITH+zyuVUU0NpRVLS00efz6ij5zp23gF62i1glS2KgZI2RA63vd0SETZ7yNNS9nGjmCQn7Cq/rNBrsUcANo7u/cwx7uO0P1vZmD4IczJwywXCUIsRKo1z9foY37jbqM+TPPvhuHYTvOgSZb5GHQwuKx7Thp1BemwxEnTTvJh+XObSRIV33raEZWlqe3EeJQrDbtCru4Xku7zkG0gc5zE+vWPdZeqjWDbQUyp2hi77r+wXSJG0L7JHeHUQE7wj+G0VxrYcPGJ6n/PZ+ZDpTLM2Eojqf2dDcA==</config></zuiprezi>
